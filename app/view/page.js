@@ -13,3 +13,15 @@
 // };
 
 // export default page;
+
+
+const page = () => {
+  return (
+    <div>
+      Nothing to see here
+    </div>
+  )
+}
+
+export default page
+
