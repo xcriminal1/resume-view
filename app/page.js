@@ -6,7 +6,7 @@ const page = () => {
   return (
     <div className="bg-slate-600">
       <Worker workerUrl="https://unpkg.com/pdfjs-dist@3.4.120/build/pdf.worker.min.js">
-      <Viewer theme='dark' fileUrl="/AmanSinghResume.pdf" />;
+      <Viewer theme='dark' fileUrl="/ResumeWAman.pdf" />;
       </Worker>
     </div>
   );
